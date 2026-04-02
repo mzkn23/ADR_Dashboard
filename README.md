@@ -15,7 +15,9 @@ The following Excel skills were implemented for analysis:
 - **Data Validation**
 
 ## Dataset
-The dataset used for this project was a synthetic dataset taken from kaggle created to mimic real-life case safety reports. Although the dataset was taken and used from Kaggle, due to its synthetic nature the dataset was uniform and would return near identical median and average values. For this reason using RANDBETWEEN to create a new column called 'New_Onset_Days' which would return values with more variation.
+The dataset used for this project was a synthetic dataset taken from kaggle created to mimic real-life case safety reports. 
+
+Although the dataset was taken and used from Kaggle, due to its synthetic nature the dataset was uniform and would return near identical median and average values. For this reason using RANDBETWEEN to create a new column called 'New_Onset_Days' which would return values with more variation.
 
 The original dataset can be found below:
 
