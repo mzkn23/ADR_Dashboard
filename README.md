@@ -26,7 +26,7 @@ The original dataset can be found below:
 The key information included in the dataset was:
 - **Patient Age**
 - **Gender**
-- **Drug Namee**
+- **Drug Name**
 - **Onset Days**
 - **Seriousness**
 
